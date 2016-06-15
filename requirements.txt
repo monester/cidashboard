@@ -1,0 +1,4 @@
+Django==1.8.7
+requests==2.9.2
+pytest-django
+pyyaml
